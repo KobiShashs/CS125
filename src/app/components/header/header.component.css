@@ -1,0 +1,19 @@
+.example-spacer {
+  flex: 1 1 auto;
+}
+
+
+.router-link-active{
+  color: dimgray;
+  background-color: lightsalmon;
+  font-size: large;
+}
+
+a{
+  color: blue
+}
+
+
+button{
+  margin: 10px;
+}
